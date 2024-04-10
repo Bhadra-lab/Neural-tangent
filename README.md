@@ -1,1 +1,1 @@
-This repo contians code and preseantion (Application of modern ML in medicine)
+This repo contains code and presentation (Application of Modern ML in Medicine).
